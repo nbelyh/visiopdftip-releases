@@ -6,3 +6,7 @@ The extension add the interactive annotations to the PDF produced by Visio. Ther
 In addition to the standard controls (pages, background, etc) you’ll get addition "Comments" section to export the shape comments (inserted as tooltips).
 
 ![](http://unmanagedvisio.com/wp-content/uploads/pdf-tip.png)
+
+The extension is available from the "Export" tab:
+
+![](http://unmanagedvisio.com/wp-content/uploads/pdf-tip-menu.png)
